@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    font-family: Arial;
+}
+h2{
+    color: aqua;
+    font-family: Arial;
+}
+p{
+    color: chartreuse;
+    font-family: sans-serif;
+}
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 5px;
+}
+#menu-bar a:hover{
+    background-color: aquamarine;
+    color: #ffffff;
+}
+
